@@ -8,6 +8,7 @@ Při tom porucha otvírání kufru. Nouzově otevřeno.
 Finance k 2.9.2022: Zdenovi jsem vše uhradil. Ještě u něho mám 16,85 Eur za nákup.
 
 Urgent:
+- Oprava otevírání víka motoru, aby šlo bezpečně otevírat.
 - Výměna oleje a filtrů
 - Výměna prasklé hadičky pro kontrolu oleje
 - Odstranění koroze podpozku a karoserie
@@ -18,6 +19,7 @@ Urgent:
 
 
 Medium:
+- výměna čelní masky za nějakou lepší
 - Oprava zadního ostřikovače
 - Panty levých předních dveří vržou
 - V autě za deště kondenzují páry - 
@@ -28,11 +30,11 @@ Medium:
 - přelakování disků
 - kontrola brzd
 - Výměna antény na střeše
-- Vyčištění motoru a výměna poteniálně problematických spojů a hadiček
+- Vyčištění motoru a výměna potenciálně problematických spojů a hadiček
 
 Fajnovosti:
 - Celková údržba interiéru
-- Výěna těsnění kolem oken
+- Výměna těsnění kolem oken
 - Vzadu oprava roletky (nebo výměna za novou)
 - Kontrola laku, vyhlazení 
 - Oživení plastových dílů
