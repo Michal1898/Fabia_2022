@@ -1,11 +1,20 @@
 Škoda Fabia1 kombi,  1.4 MPI, 50 kW
 VIN Code:TMBJB1Y623434894
 
-Datum:02.09.2022
-Porucha otvírání kufru. Nouzově otevřeno.
+Datum:03.09.2022
+Aktuálně:
+Zhoršila se funkce brzd!!
+
+Shoping list:
+- Těsnění pod hlavu
+- Těsnění pod škrticí klapku
+- Tryska zadního ostřikovače
+-Červená kapalina do chladiče G12+
+
 Finance k 3.9.2022: Zdenovi jsem vše uhradil. Ještě u něho mám 16,85 Eur za nákup.
 
 Urgent:
+- Zkontrolovat brzdy!! Zhoršilo se brzdění!!
 - Oprava otevírání víka motoru, aby šlo bezpečně otevírat.
 - Ošetření proti korozi
 - Oživení SPZ černou barvou (Doporučení STK !)
