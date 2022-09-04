@@ -2,19 +2,12 @@
 VIN Code:TMBJB1Y623434894
 
 Datum:02.09.2022
-- Přišel čistic brzd, olej i filtr.
--Praskla mi přední žárovka levá: H7 12V55W. Výměna obou H7 12V 55W do páru.
-Při tom porucha otvírání kufru. Nouzově otevřeno.
-Finance k 2.9.2022: Zdenovi jsem vše uhradil. Ještě u něho mám 16,85 Eur za nákup.
+Porucha otvírání kufru. Nouzově otevřeno.
+Finance k 3.9.2022: Zdenovi jsem vše uhradil. Ještě u něho mám 16,85 Eur za nákup.
 
 Urgent:
 - Oprava otevírání víka motoru, aby šlo bezpečně otevírat.
-- Výměna oleje a filtrů
-- Výměna prasklé hadičky pro kontrolu oleje
-- Odstranění koroze podpozku a karoserie
 - Ošetření proti korozi
-- výměna svíček
-- Rozleštění světlometů
 - Oživení SPZ černou barvou (Doporučení STK !)
 
 
@@ -30,6 +23,7 @@ Medium:
 - přelakování disků
 - kontrola brzd
 - Výměna antény na střeše
+- Rozleštění světlometů
 - Vyčištění motoru a výměna potenciálně problematických spojů a hadiček
 
 Fajnovosti:
@@ -47,4 +41,7 @@ Fajnovosti:
 - nové pneu
 
 Hotovo:
+- Výměna oleje
+- Výměna svíček
 - Výměna obou H7 12V 55W přední.
+- Provizorní vyčištění světlometů.
