@@ -1,9 +1,9 @@
 Škoda Fabia1 kombi,  1.4 MPI, 50 kW
 VIN Code:TMBJB1Y623434894
 
-Datum:03.09.2022
+Datum:01.10..2022
 Aktuálně:
-Zhoršila se funkce brzd!!
+Nefunguje brzdový spínač!!
 
 Shoping list:
 - Těsnění pod hlavu
@@ -14,13 +14,16 @@ Shoping list:
 Finance k 3.9.2022: Zdenovi jsem vše uhradil. Ještě u něho mám 16,85 Eur za nákup.
 
 Urgent:
+- Vyměnit nový brzdový spínač
 - Zkontrolovat brzdy!! Zhoršilo se brzdění!!
 - Oprava otevírání víka motoru, aby šlo bezpečně otevírat.
 - Ošetření proti korozi
-- Oživení SPZ černou barvou (Doporučení STK !)
+
 
 
 Medium:
+- Instalace nové antény.
+-Přečalounění nebo výměna předních sedaček
 - výměna čelní masky za nějakou lepší
 - Oprava zadního ostřikovače
 - Panty levých předních dveří vržou
@@ -54,3 +57,8 @@ Hotovo:
 - Výměna svíček
 - Výměna obou H7 12V 55W přední.
 - Provizorní vyčištění světlometů.
+- Oživena SPZ černou barvou (Doporučení STK !)
+- Vyměněna tryska zadního ostřikovače
+- Zakoupena nová plastová krytka na přívod LPG
+- Zakoupen nový brzdový senzor.
+- zakoupeno nové těsnění pod hlavu
